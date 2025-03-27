@@ -13,5 +13,15 @@
   "dependencies": {
     "commander": "^13.1.0"
   },
-  "repository": "https://github.com/AloneBiNgu/discord-setup-cli"
+  "repository": "https://github.com/AloneBiNgu/discord-setup-cli",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "cli",
+    "setup",
+    "bot",
+    "command-line-tool",
+    "discord-bot",
+    "automation"
+  ]
 }
