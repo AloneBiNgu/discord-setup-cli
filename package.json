@@ -5,7 +5,7 @@
   "description": "A command-line tool for setting up a Discord.js bot project",
   "main": "./bin/index.js setup",
   "bin": {
-    "discord-setup": "./index.js"
+    "discord-setup-cli": "./index.js"
   },
   "author": "Jacky",
   "license": "MIT",
